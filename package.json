@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/core-variables",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Core variables for Savvy CSS.",
   "main": "build/core-variables.css",
   "style": "build/core-variables.css",
